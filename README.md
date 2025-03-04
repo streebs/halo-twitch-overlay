@@ -1,6 +1,8 @@
 # halo-twitch-overlay
 
-This template should help get you started developing with Vue 3 in Vite.
+### This is a Work in progress.
+
+A front-end that can access my [Halo Infinite API](https://github.com/streebs/halo-infinite-api) 
 
 ## Recommended IDE Setup
 
